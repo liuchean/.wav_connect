@@ -1,0 +1,1 @@
+Generate cosine waves with different sampling rates (8k, 16k), and then use triangular and Hamming windows to concatenate the cosine waves of different sampling rates, in order to facilitate comparison of the differences between the two methods.

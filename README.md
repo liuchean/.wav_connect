@@ -9,3 +9,7 @@ Result
 
 2.The waveform results
 ![波形圖差異](https://github.com/liuchean/.wav_connect/blob/main/image.png)
+
+3.Conclusion
+
+From a broader perspective, by comparing the 8k and 16k plots, it can be observed that the 16k plot exhibits finer gradations and more precise patterns. In both plots, bright yellow step-like lines can be seen, with each step representing a different frequency. Across different sets, the height of the main bright yellow lines remains unchanged, while only the surrounding energy distribution varies.
